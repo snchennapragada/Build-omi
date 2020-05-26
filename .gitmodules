@@ -1,6 +1,6 @@
 [submodule "omi"]
 	path = omi
-	url = git@github.com:Microsoft/omi.git
+	url = git@github.com:snchennapragada/omi.git
 	branch = master
 [submodule "pal"]
 	path = pal
