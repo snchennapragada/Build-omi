@@ -4,5 +4,5 @@
 	branch = master
 [submodule "pal"]
 	path = pal
-	url = git@github.com:Microsoft/pal.git
+	url = git@github.com:snchennapragada/pal.git
 	branch = master
