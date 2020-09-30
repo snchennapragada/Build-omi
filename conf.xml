@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<components>
+<component>
+	<SCOM>
+		<RequiredMachines>6</RequiredMachines>
+	</SCOM>
+	<SCVMM>
+		<RequiredMachines>5</RequiredMachines>
+	</SCVMM>
+	<MonAgent>
+		<RequiredMachines>3</RequiredMachines>
+	</MonAgent>
+	<SCDPM>
+		<RequiredMachines>4</RequiredMachines>
+	</SCDPM>
+</component>
+</components>
+
